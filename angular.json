@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cors-example"
+    }
+  },
+  "defaultProject": "cors-example",
+  "cli": {
+    "analytics": "9262cee4-694f-4042-91e6-4cfa7ead33a9"
+  }
 }
